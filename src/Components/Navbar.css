@@ -1,0 +1,99 @@
+.logo{
+    height: 12px;
+    width: 12px;
+  }
+  .navbar-brand {
+    padding-left: 35px;
+    padding-top: 9px;
+    /* color:antiquewhite */
+    }
+  
+  
+  .justify-content-end > div:nth-child(1) > button:nth-child(1) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 0;
+    border-radius: 10%;
+    margin-right: 8px;
+  }
+  
+  .justify-content-end > div:nth-child(1) > button:nth-child(1) > a:hover{
+    color: black;
+  }
+  
+  .justify-content-end > div:nth-child(2) > button:nth-child(1) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 0;
+    border-radius: 10%;
+    margin-right: 8px;
+  }
+  
+  .justify-content-end > div:nth-child(2) > button:nth-child(1) > div:nth-child(1) > a:hover{
+    color: black;
+  }
+  
+  .justify-content-end > div:nth-child(2) > button:nth-child(1) > div:nth-child(1) > div:nth-child(2){
+    border-radius: 10%;
+    background-color: #808080;
+  }
+  
+  .justify-content-end > div:nth-child(3) > button:nth-child(1) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 0;
+    border-radius: 10%;
+    margin-right: 8px;
+  }
+  
+  .justify-content-end > div:nth-child(3) > button:nth-child(1) > a:hover{
+    color: black;
+  }
+  
+  .justify-content-end > div:nth-child(4) > button:nth-child(1) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 0;
+    border-radius: 10%;
+    margin-right: 8px;
+  }
+  
+  .justify-content-end > div:nth-child(4) > button:nth-child(1) > div:nth-child(1) > a:hover{
+    color: black;
+  }
+  
+  .justify-content-end > div:nth-child(4) > button:nth-child(1) > div:nth-child(1) > div:nth-child(2){
+    border-radius: 10%;
+    background-color: #808080;
+  }
+  
+  .justify-content-end > div:nth-child(5) > button:nth-child(1) {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 0;
+    border-radius: 10%;
+  }
+  
+  .justify-content-end > div:nth-child(5) > button:nth-child(1) > a:hover{
+    color: black;
+  }
+  
+  .navbar-toggler {
+    margin-right: 8px;
+  }
+  
